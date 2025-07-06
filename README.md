@@ -29,7 +29,7 @@
 The main innovations of this model include:  
 - **SDFN**: Dynamically weights and fuses shallow-layer detailed features with deep-layer semantic information. By integrating attention mechanisms and graph convolution, it enables cross-level feature interaction within local regions, thereby enhancing the model’s capability to detect small objects and improving overall detection accuracy.  
 - **DE-C2f**: : Employs deformable convolution with learned offsets to precisely localize key object regions. Combined with the CBAM attention mechanism to optimize feature extraction, it dynamically adapts to object deformations and complex backgrounds, leading to improved detection precision.  
-- **M4**: Leverages the selective mechanism of MAMBA\cite{7} and multiscale information learning to capture cross-scale spatial relationships and enhance detection performance for objects of varying sizes.
+- **M4**: Leverages the selective mechanism of MAMBA and multiscale information learning to capture cross-scale spatial relationships and enhance detection performance for objects of varying sizes.
 
 Experimental results show that this model  outperforms state-of-the-art methods on the : NWPU VHR-10 and RSOD public dataset, demonstrating its effectiveness and strong generalization ability in remote sensing object detection.  
 
