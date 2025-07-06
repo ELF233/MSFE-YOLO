@@ -18,7 +18,6 @@
    - [Installation Steps](#installation-steps)  
    - [Dataset Configuration](#dataset-configuration)  
    - [Training the Model](#training-the-model)  
-   - [Testing the Model](#testing-the-model)  
 4. [Contact Information](#contact-information)  
 
 ---  
