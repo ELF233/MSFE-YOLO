@@ -24,7 +24,7 @@
 
 ## Project Overview  
 
-**MSFE-YOLO** is a multi-directional, multi-scale local feature enhancement remote sensing object detection method based on YOLOv8. It is designed to leverage the unique advantages of remote sensing imaging technology under various weather conditions.  
+**MSFE-YOLO** is a multi-directional, multi-scale local feature enhancement remote sensing object detection method based on YOLOv8. It is designed to leverage the unique advantages of remote sensing imaging technology under various scenarios.  
 
 The main innovations of this model include:  
 - **SDFN**: Dynamically weights and fuses shallow-layer detailed features with deep-layer semantic information. By integrating attention mechanisms and graph convolution, it enables cross-level feature interaction within local regions, thereby enhancing the model’s capability to detect small objects and improving overall detection accuracy.  
