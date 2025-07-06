@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/ELF233/MSFE-YOLO)  
 ![Issues](https://img.shields.io/github/issues/ELF233/MSFE-YOLO)  
 
-**MSFE-YOLO** is a multi-scale feature enhance object detection model based on YOLO, designed to improve the accuracy and efficiency of object detection.  
+**MSFE-YOLO** is a multi-scale feature enhance object detection model based on YOLOv8, designed to improve the accuracy and efficiency of object detection.  
 
 ---  
 
