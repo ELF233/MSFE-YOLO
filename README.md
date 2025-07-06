@@ -1,11 +1,11 @@
 ﻿
-# MS-MD-YOLO  
+# MSFE-YOLO  
 
-![License](https://img.shields.io/github/license/ELF233/MS-MD-YOLO)  
-![Stars](https://img.shields.io/github/stars/ELF233/MS-MD-YOLO)  
-![Issues](https://img.shields.io/github/issues/ELF233/MS-MD-YOLO)  
+![License](https://img.shields.io/github/license/ELF233/MSFE-YOLO)  
+![Stars](https://img.shields.io/github/stars/ELF233/MSFE-YOLO)  
+![Issues](https://img.shields.io/github/issues/ELF233/MSFE-YOLO)  
 
-**MS-MD-YOLO** is a multi-scale, multi-directional object detection model based on YOLO, designed to improve the accuracy and efficiency of object detection.  
+**MSFE-YOLO** is a multi-scale, feature enhance object detection model based on YOLO, designed to improve the accuracy and efficiency of object detection.  
 
 ---  
 
@@ -25,7 +25,7 @@
 
 ## Project Overview  
 
-**MS-MD-YOLO** is a multi-directional, multi-scale local feature enhancement infrared object detection method based on YOLOv7. It is designed to leverage the unique advantages of infrared imaging technology under various lighting and weather conditions.  
+**MSFE-YOLO** is a multi-directional, multi-scale local feature enhancement infrared object detection method based on YOLOv7. It is designed to leverage the unique advantages of infrared imaging technology under various lighting and weather conditions.  
 
 The main innovations of this model include:  
 - **Mamba Module**: Effectively captures details of objects at different scales through a selection mechanism and multi-scale feature branches.  
